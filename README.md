@@ -15,9 +15,9 @@ This project simulates the BB84 Quantum Key Distribution protocol to demonstrate
 
 ## Architecture
 
-![Flow Diagram](flow-diagram.png)
+![Flow Diagram](Flow Chart.png)
 
-![Detailed Flow](detailed-flow.png)
+![Detailed Flow](Detailed Flow Diagram.png)
 
 ---
 
@@ -50,14 +50,16 @@ This project simulates the BB84 Quantum Key Distribution protocol to demonstrate
 
 <p align="center">
   <img src="Graph 128 bits.png" width="300"/>
-  <img src="graph-256.png" width="300"/>
+  <img src="Graph 192 bits.png" width="300"/>
+  <img src="Graph 256 bits.png" width="300"/>
+  <img src="Graph 512 bits.png" width="300"/>
 </p>
 
 ---
 
 ## Sample Output
 
-![Output](output-1.png)
+![Output](Sample Output 1_1.png)
 
 ---
 
