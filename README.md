@@ -19,7 +19,6 @@ This project simulates the BB84 Quantum Key Distribution protocol to demonstrate
   <img src="Flow Chart.png" width="300"/>
 </p>
 <p align="center">
-<p>
     <img src="Detailed Flow Diagram.png" width="300"/>
 </p>
 
