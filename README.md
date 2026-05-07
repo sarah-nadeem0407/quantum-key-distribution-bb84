@@ -49,7 +49,7 @@ This project simulates the BB84 Quantum Key Distribution protocol to demonstrate
 ## Performance Graphs
 
 <p align="center">
-  <img src="graph-128.png" width="300"/>
+  <img src="Graph 128 bits.png" width="300"/>
   <img src="graph-256.png" width="300"/>
 </p>
 
